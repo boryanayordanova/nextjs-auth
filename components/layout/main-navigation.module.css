@@ -28,6 +28,9 @@
   margin: 0 1rem;
 }
 
+.header li.welcome {
+  color: #c291e2;
+}
 .header a {
   text-decoration: none;
   color: white;
